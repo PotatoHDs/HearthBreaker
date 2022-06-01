@@ -3,6 +3,8 @@
 This project is made for project practice at NRNU MEPHI.
 This is a bot for Hearthstone using Neural Network Deep Learning.
 
+### Demo
+![Demo](Assets/videos/hs1.gif)
 ### General Scheme
 ![scheme_1](Assets/images/scheme1.jpg)
 ### Neural Network interaction with Fireplace and Kettle Scheme
