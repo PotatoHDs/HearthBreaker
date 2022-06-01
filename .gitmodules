@@ -1,9 +1,0 @@
-[submodule "hearthstone-bot"]
-	path = hearthstone-bot
-	url = https://github.com/PotatoHDs/hearthstone-bot
-[submodule "neural-hearthstone"]
-	path = neural-hearthstone
-	url = https://github.com/PotatoHDs/neural-hearthstone
-[submodule "PyStone"]
-	path = PyStone
-	url = https://github.com/PotatoHDs/PyStone
